@@ -1,0 +1,26 @@
+#some-message {
+  background-color: rgb(249,224,224);
+  padding: 20px;
+}
+
+#some-message .profile {
+  margin-right: 20px;
+}
+
+#some-message .profile img {
+  width: 100px;
+  height: 100px;
+}
+
+#some-message .content h3 {
+  font-weight: bold;
+}
+
+#some-message .content span {
+  color: rgb(156,156,156);
+}
+
+#some-message .content i {
+  margin-right: 30px;
+}
+
